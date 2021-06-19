@@ -37,3 +37,5 @@ The resulting path is published over the /path_ellipse_partial topic. Click Add,
 * https://docs.ros.org/en/foxy/Tutorials/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html#write-the-publisher-node
 * https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
 * http://docs.ros.org/en/noetic/api/nav_msgs/html/msg/Path.html
+* https://docs.ros.org/en/foxy/Tutorials/Workspace/Creating-A-Workspace.html
+* https://docs.ros.org/en/foxy/Tutorials/Creating-Your-First-ROS2-Package.html
