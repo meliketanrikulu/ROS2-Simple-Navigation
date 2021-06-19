@@ -34,7 +34,7 @@ z = 0
 * ``ros2 run navigation publisher``
 
 ### Visualization in RViz2
-The resulting path is published over the /path_ellipse_partial topic. Click Add, select the message of type path publishing from the topic /path ellips_partial published in the By Subject tab. You are expected to see the following result.
+The resulting path is published over the /path_ellipse_partial topic. Click Add, select the message of type path publishing from the topic /path ellips_partial published in the By Topic tab. You are expected to see the following result.
 
 <img src="/img/elips1.png" alt="RESULT"/>
 
