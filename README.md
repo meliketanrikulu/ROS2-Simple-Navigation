@@ -16,6 +16,12 @@ y = 0.5*15*sin(θ)
 ``
 z = 0
 ``
+###### Message header frame_id: ``/map`` is selected. Topic name is ``path_ellipse_partial``. 
+* ``$ ros2 topic list``
+<img src="/img/topic_list.png" alt="topic_list"/>
+
+* `` $ ros2 topic echo /path_ellipse_partial ``
+<img src="/img/topic_echo.png" alt="My cool logo"/>
 
 ### Install and Run Navigation Package 
 ###### Install the package to your workspace 
@@ -30,7 +36,7 @@ z = 0
 ### Visualization in RViz2
 The resulting path is published over the /path_ellipse_partial topic. Click Add, select the message of type path publishing from the topic /path ellips_partial published in the By Subject tab. You are expected to see the following result.
 
-<img src="/img/path2.png" alt="My cool logo"/>
+<img src="/img/path2.png" alt="RESULT"/>
 
 
 ### Resources
