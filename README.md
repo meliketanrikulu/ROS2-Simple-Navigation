@@ -31,3 +31,9 @@ z = 0
 The resulting path is published over the /path_ellipse_partial topic. Click Add, select the message of type path publishing from the topic /path ellips_partial published in the By Subject tab. You are expected to see the following result.
 
 <img src="/img/path2.png" alt="My cool logo"/>
+
+
+### Resources
+* https://docs.ros.org/en/foxy/Tutorials/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html#write-the-publisher-node
+* https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
+* http://docs.ros.org/en/noetic/api/nav_msgs/html/msg/Path.html
